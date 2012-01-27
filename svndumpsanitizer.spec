@@ -1,11 +1,11 @@
 Summary:	svndump sanitizer
 Name:		svndumpsanitizer
-Version:	0.8.2
+Version:	0.8.3
 Release:	1
 License:	GPL v3+
 Group:		Development/Version Control
 Source0:	http://miria.linuxmaniac.net/svndumpsanitizer/%{name}-%{version}.tar.bz2
-# Source0-md5:	d1076e79645e1f8e63d4ffded8e2b96b
+# Source0-md5:	d5b241f35049fb8a6362022131fca83a
 URL:		http://miria.linuxmaniac.net/svndumpsanitizer/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
