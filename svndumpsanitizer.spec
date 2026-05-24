@@ -1,7 +1,7 @@
 Summary:	svndump sanitizer
 Name:		svndumpsanitizer
 Version:	0.8.3
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Development/Version Control
 Source0:	http://miria.linuxmaniac.net/svndumpsanitizer/%{name}-%{version}.tar.bz2
